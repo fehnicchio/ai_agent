@@ -24,7 +24,7 @@ Este projeto implementa um agente de IA que converte perguntas em linguagem natu
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ai_agent.git
+git clone https://github.com/fehnicchio/ai_agent.git
 cd ai_agent
 
 # Crie e ative o ambiente virtual
