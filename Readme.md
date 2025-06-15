@@ -90,7 +90,14 @@ python src/agent.py
 
 ## 📊 Diagrama de Entidade-Relacionamento
 
-![Diagrama ER](/docs/ER_diagram.png)
+![Diagrama ER](docs/ER_diagram.png)
+
+### Entidades:
+- **CLIENTES**: Armazena informações dos clientes
+- **PEDIDOS**: Registra os pedidos realizados
+
+### Relacionamento:
+- Um cliente pode fazer **N** pedidos (relação 1:N)
 
 ## 🤝 Contribuição
 
