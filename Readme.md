@@ -88,17 +88,6 @@ python src/agent.py
 └── setup_database.sql  # Script de inicialização do banco
 ```
 
-## 📊 Diagrama de Entidade-Relacionamento
-
-![Diagrama ER](docs/ER_diagram.png)
-
-### Entidades:
-- **CLIENTES**: Armazena informações dos clientes
-- **PEDIDOS**: Registra os pedidos realizados
-
-### Relacionamento:
-- Um cliente pode fazer **N** pedidos (relação 1:N)
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Siga os passos:
