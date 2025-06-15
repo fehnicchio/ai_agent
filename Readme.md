@@ -88,6 +88,10 @@ python src/agent.py
 └── setup_database.sql  # Script de inicialização do banco
 ```
 
+## 📊 Diagrama de Entidade-Relacionamento
+
+![Diagrama ER](/docs/ER_diagram.png)
+
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Siga os passos:
